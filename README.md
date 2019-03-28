@@ -1,14 +1,12 @@
 # bert-utils-gp
 
-»ùÓÚGoogle¿ªÔ´µÄ[BERT](https://github.com/google-research/bert)´úÂë£¬½øĞĞÁË½øÒ»²½µÄ¼ò»¯£¬·½±ãÉú³É¾äÏòÁ¿
+åŸºäºGoogleå¼€æºçš„[BERT](https://github.com/google-research/bert)ä»£ç ï¼Œè¿›è¡Œäº†è¿›ä¸€æ­¥çš„ç®€åŒ–ï¼Œæ–¹ä¾¿ç”Ÿæˆå¥å‘é‡
 
-1. ÏÂÔØBERTµÄpre-trainedÄ£ĞÍ
+1. ä¸‹è½½BERTçš„pre-trainedæ¨¡å‹
 
-2. °ÑÏÂÔØºÃµÄÄ£ĞÍÌí¼Óµ½±¾Ä¿Â¼ÏÂ
+2. æŠŠä¸‹è½½å¥½çš„æ¨¡å‹æ·»åŠ åˆ°æœ¬ç›®å½•ä¸‹
 
-3. ¾äÏòÁ¿Éú³É
-
-×¢Òâ²ÎÊı±ØĞëÊÇÒ»¸ölist¡£
+3. å¥å‘é‡ç”Ÿæˆï¼Œæ³¨æ„å‚æ•°å¿…é¡»æ˜¯ä¸€ä¸ªlistã€‚
 
 ```
 from bert_utils_gp import BertEncoder, args
